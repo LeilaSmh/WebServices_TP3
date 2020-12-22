@@ -1,0 +1,9 @@
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT.csprojAssemblyReference.cache
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT_MarkupCompile.cache
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT.g.resources
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT.AssemblyInfoInputs.cache
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT.AssemblyInfo.cs
+C:\Users\leila\Desktop\Web Services\TP3\WpfENSAT\obj\Debug\netcoreapp3.1\WpfENSAT.csproj.CoreCompileInputs.cache

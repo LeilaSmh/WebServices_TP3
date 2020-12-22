@@ -1,0 +1,7 @@
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\bin\WcfServiceEnseignement.dll.config
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\bin\WcfServiceEnseignement.dll
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\bin\WcfServiceEnseignement.pdb
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csprojAssemblyReference.cache
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.csproj.CoreCompileInputs.cache
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.dll
+C:\Users\leila\Desktop\Web Services\TP3\WcfServiceEnseignement\obj\Debug\WcfServiceEnseignement.pdb
